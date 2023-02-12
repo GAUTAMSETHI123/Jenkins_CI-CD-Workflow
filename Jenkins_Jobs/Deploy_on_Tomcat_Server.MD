@@ -28,7 +28,7 @@
      - Copy from: `My_First_Maven_Build`
      
    - *Source Code Management:*
-      - Repository: `https://github.com/yankils/hello-world.git`
+      - Repository: `https://github.com/GAUTAMSETHI123/Jenkins_CI-CD-Workflow.git`
       - Branches to build : `*/master`  
    - *Poll SCM* :      - `* * * *`
 
